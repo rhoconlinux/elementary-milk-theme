@@ -19,8 +19,8 @@
 
     -GtkArrow-arrow-scaling: 0.75;
     
-    -GtkCheckButton-indicator-size: 10;/*15*/
-    -GtkCheckMenuItem-indicator-size: 10; /*12*/
+    -GtkCheckButton-indicator-size: 15;/*15*/
+    -GtkCheckMenuItem-indicator-size: 12; /*12*/
     
     -GtkExpander-expander-size: 10; 
       
