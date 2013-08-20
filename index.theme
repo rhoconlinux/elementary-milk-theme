@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=elementary_milk
+Comment=elementary desktop default theme with some mods (más info y algunos posts en rhoconlinux.wordpress.com) 
+Encoding=UTF-8
+
+Name[en_US]=elementary
+
+[X-GNOME-Metatheme]
+GtkTheme=elementary
+MetacityTheme=elementary
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
